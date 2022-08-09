@@ -1,0 +1,8 @@
+mysqlclient
+django
+django-extensions
+ipython
+jupyter
+pandas
+schedule
+tweepy
